@@ -7,9 +7,13 @@ This Power BI dashboard provides a comprehensive, data-driven analysis of employ
 The dashboard offers insights into attrition based on several key parameters:
 
 1️⃣ Attrition by Gender & Age – Analyzes the impact of gender and age on employee attrition.
+
 2️⃣ Attrition by Education – Investigates how educational qualifications influence employee retention.
+
 3️⃣ Attrition by Salary Slab – Examines the relationship between salary levels and employee attrition.
+
 4️⃣ Attrition by Job Role – Identifies which job roles are most affected by attrition.
+
 5️⃣ Attrition by Years at Company – Shows the patterns of attrition based on the length of time employees have spent at the company.
 
 🔍 Key Findings
