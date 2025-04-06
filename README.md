@@ -1,46 +1,54 @@
-HR Analytics Dashboard – Employee Attrition Analysis
+# 👥 HR Analytics Dashboard – Employee Attrition Analysis
 
-📌 Overview
+---
+
+## 📌 Overview
+
 This Power BI dashboard provides a comprehensive, data-driven analysis of employee attrition, helping HR professionals identify key trends and factors that influence employee retention.
 
-📊 Dashboard Insights
+---
+
+## 📊 Dashboard Insights
+
 The dashboard offers insights into attrition based on several key parameters:
 
-1️⃣ Attrition by Gender & Age – Analyzes the impact of gender and age on employee attrition.
+1️⃣ **Attrition by Gender & Age** – Analyzes the impact of gender and age on employee attrition.  
+2️⃣ **Attrition by Education** – Investigates how educational qualifications influence employee retention.  
+3️⃣ **Attrition by Salary Slab** – Examines the relationship between salary levels and employee attrition.  
+4️⃣ **Attrition by Job Role** – Identifies which job roles are most affected by attrition.  
+5️⃣ **Attrition by Years at Company** – Shows the patterns of attrition based on the length of time employees have spent at the company.
 
-2️⃣ Attrition by Education – Investigates how educational qualifications influence employee retention.
+---
 
-3️⃣ Attrition by Salary Slab – Examines the relationship between salary levels and employee attrition.
+## 🔍 Key Findings
 
-4️⃣ Attrition by Job Role – Identifies which job roles are most affected by attrition.
+- Employees with salaries up to **5K** show the highest levels of attrition, indicating potential dissatisfaction with compensation.  
+- The **26–35 age group** experiences the highest attrition rates.  
+- Roles such as **Sales Executives** and **Laboratory Technicians** exhibit the most significant attrition.
 
-5️⃣ Attrition by Years at Company – Shows the patterns of attrition based on the length of time employees have spent at the company.
+---
 
-🔍 Key Findings
+## 🛠️ Tools & Technologies
 
-Employees with salaries up to 5K show the highest levels of attrition, indicating potential dissatisfaction with compensation.
+- **Power BI** for Data Visualization  
+- **Excel** for Data Preparation  
+- **HR Analytics Principles** for Interpretation
 
-The 26-35 age group experiences the highest attrition rates.
+---
 
-Roles such as Sales Executives and Laboratory Technicians exhibit the most significant attrition.
+## 📂 Files Included
 
-🛠️ Tools & Technologies
+- Power BI `.pbix` file (dashboard)  
+- Dataset, DB (`.pdf`) and short video
 
-Power BI for Data Visualization
+---
 
-Excel for Data Preparation
+## 🚀 Future Enhancements
 
-HR Analytics Principles for Interpretation
+- Adding **predictive analytics** to forecast future attrition trends.
 
-📂 Files Included
+---
 
-Power BI .pbix file (dashboard)
+## 💡 Contributions Welcome
 
-Dataset, DB (pdf) and short video
-
-
-🚀 Future Enhancements
-
-Adding predictive analytics to forecast future attrition trends.
-
-💡 Feel free to contribute or suggest improvements!
+Feel free to **contribute** or **suggest improvements** by raising an issue or submitting a pull request!
